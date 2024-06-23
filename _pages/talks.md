@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">Here's a map of places I've given or have scheduled presentations:</a></p>
+Here's a map of places I've given or have scheduled presentations:
 
 ## Invited Talks
 - *International Biometric Conference (IBC), Atlanta, GA*, December 2024 

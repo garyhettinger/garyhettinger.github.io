@@ -6,6 +6,7 @@ author_profile: true
 
 
 Here's a map of places I've given or have scheduled presentations:
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
 ## Invited Talks
 - *International Biometric Conference (IBC), Atlanta, GA*, December 2024 

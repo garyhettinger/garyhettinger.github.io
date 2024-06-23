@@ -1,4 +1,4 @@
-![image](https://github.com/garyhettinger/garyhettinger.github.io/assets/105126893/577d1acf-3a27-4161-ba95-f87f1183b2d0)---
+---
 title: "Teaching"
 permalink: /teaching/
 author_profile: true

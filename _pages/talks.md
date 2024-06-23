@@ -4,10 +4,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-
-Here's a map of places I've given or have scheduled presentations:
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
-
 ## Invited Talks
 - *International Biometric Conference (IBC), Atlanta, GA*, December 2024 
   - Transportability of Policy Effects under Heterogeneous Exposure and Demographic Distributions
@@ -49,3 +45,6 @@ Here's a map of places I've given or have scheduled presentations:
   - Multiply Robust Difference-in-Differences Estimators in the Presence of Heterogeneous Direct and Indirect Policy Exposures
 - *American Causal Inference Conference (ACIC), Berkeley, CA*, May 2022
   - Estimation of Causal Effects for Philadelphia Beverage Tax in Presence of Spillover
+
+Here's a map of places I've given or have scheduled presentations:
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>

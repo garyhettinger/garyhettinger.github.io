@@ -1,10 +1,8 @@
 ---
-title: "A Bayesian Model-based Approach for Estimating the Instantaneous Reproduction Number Using Case-Notification Data in the Presence of Reporting Variation and Serial Interval Uncertainty![image](https://github.com/garyhettinger/academicsite/assets/105126893/506521d1-c782-447b-9c29-dba4501f6a22)
-"
+title: "Multiply Robust Estimation of Heterogeneous Direct and Indirect Policy Effects"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-enar
-venue: "ENAR Spring Meeting"
-date: 2022-03
-location: "Houston, Texas"
+venue: "International Conference on Statistics and Data Science (ICSDS)"
+date: "December 2023"
+location: "Lisbon, Portugal"
 ---

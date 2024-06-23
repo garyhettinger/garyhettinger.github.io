@@ -12,7 +12,7 @@ title                    : "Gary C. N. Hettinger"
 title_separator          : "-"
 name                     : &name "Gary C. N. Hettinger"
 description              : &description "Biostatistics PhD Student at University of Pennsylvania"
-url                      : https://garyhettinger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://garyhettinger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicsite.github.io"
 

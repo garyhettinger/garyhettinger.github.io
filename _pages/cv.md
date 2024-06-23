@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![CV](/files/gary-hettinger-cv-062024.png)
+![CV](/files/gary-hettinger-cv-062024.pdf)

@@ -5,8 +5,10 @@ author_profile: true
 ---
 
 ## Invited Talks
-- *International Biometric Conference (IBC), Atlanta, GA*, December 2024 
+- *ENAR Spring Meeting, New Orleans, LA*, March 2025 
   - Transportability of Policy Effects under Heterogeneous Exposure and Demographic Distributions
+- *International Biometric Conference (IBC), Atlanta, GA*, December 2024 
+  - Stochastic Health Policy Interventions under Interference using a Difference-in-Differences Framework
 - *Joint Statistical Meetings (JSM), Portland, OR*, August 2024 
   - Robust Estimation and Transportation of Causal Effect Curves for Difference-in-Differences Designs
 - *ENAR Spring Meeting, Baltimore, MD*, March 2024 
@@ -37,6 +39,8 @@ author_profile: true
   - A Bayesian Model-based Approach for Estimating the Instantaneous Reproduction Number Using Case-Notification Data in the Presence of Reporting Variation and Serial Interval Uncertainty
 
 ## Posters
+- *Penn Conference on Big Data in Biomedical and Population Health Sciences, Philadelphia, PA*, September 2024
+  - Stochastic Health Policy Interventions under Interference using a Difference-in-Differences Framework
 - *New England Statistical Symposium (NESS), Boston, MA*, June 2023
   - Pairwise Doubly-Robust Difference-in-Differences Estimators in the Presence of Heterogeneous Direct and Indirect Policy Exposures
 - *American Causal Inference Conference (ACIC), Austin, TX*, May 2023

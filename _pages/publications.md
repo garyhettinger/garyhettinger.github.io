@@ -16,11 +16,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - **Hettinger, G.**, Rubin, D., Huang, J. (2024). Refining Estimation of the Instantaneous Reproduction Number During Early Pandemic Stages: Addressing Case-Reporting Variability and Serial Interval Uncertainty. [*In press, American Journal of Epidemiology*](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwae356/7755505).
 - Gregory, E.F., Roberto, C.A. Mitra, N., Edmonson, E.K., Petimar, J., Block, J.P., **Hettinger, G.**, Gibson, L.A. (2024). The Philadelphia beverage tax and pediatric weight outcomes. [*In press, JAMA Pediatrics*].
 - Petimar, J., Roberto, C.A., Block, J., Mitra, N., Gregory, E., Edmonson, E., **Hettinger, G.**, Gibson, L.A. (2024). Associations of the Philadelphia beverage tax with changes in adult body weight: an interrupted time series analysis. [*In press, The Lancet Regional Health -- Americas*](https://doi.org/10.1016/j.lana.2024.100906).
+- **Hettinger, G.**, Roberto, C., Lee, Y., Mitra, N. (2024). Estimation of Policy-Relevant Causal Effects in the Presence of Interference With an Application to the Philadelphia Beverage Tax. ([*In press, Journal of the Royal Statistical Society: Series C](https://arxiv.org/abs/2301.06697)).
 
 ## Under Review
 - **Hettinger, G.**, Lee, Y., Mitra, N. Multiply Robust Estimation of Causal Effect Curves for Difference-in-Differences Designs. arXiv preprint arXiv:2401.14355. ([arXiv](https://arxiv.org/abs/2401.14355)).
 - Lee, Y., **Hettinger, G.**, Mitra, N. Policy effect evaluation under counterfactual neighborhood interventions in the presence of spillover. ([arXiv](https://arxiv.org/abs/2303.06227)).
-- **Hettinger, G.**, Roberto, C., Lee, Y., Mitra, N. Estimation of Policy-Relevant Causal Effects in the Presence of Interference With an Application to the Philadelphia Beverage Tax. ([arXiv](https://arxiv.org/abs/2301.06697)).
 - **Hettinger, G.**, Long, Q., & Parikh, R. Comparative Effectiveness of Second-Line Therapies in Advanced Non-Small Cell Lung Cancer: A Propensity-Score-Based Real-World Analysis Using Longitudinal EHR Data.
 - **Hettinger, G.**, Margolis, D. J., & Mitra, N. Mendelian Randomization for Dermatology Research.
 - **Hettinger, G.**, Lee, Y., & Mitra, N. A Causal Framework for Drivers of Policy Effect Heterogeneity Using Difference-in-Differences. ([arXiv](https://arxiv.org/abs/2408.16670)).

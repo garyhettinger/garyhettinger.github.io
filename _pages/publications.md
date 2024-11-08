@@ -17,10 +17,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - Gregory, E.F., Roberto, C.A. Mitra, N., Edmonson, E.K., Petimar, J., Block, J.P., **Hettinger, G.**, Gibson, L.A. (2024). The Philadelphia beverage tax and pediatric weight outcomes. [*In press, JAMA Pediatrics*].
 - Petimar, J., Roberto, C.A., Block, J., Mitra, N., Gregory, E., Edmonson, E., **Hettinger, G.**, Gibson, L.A. (2024). Associations of the Philadelphia beverage tax with changes in adult body weight: an interrupted time series analysis. [*In press, The Lancet Regional Health -- Americas*](https://doi.org/10.1016/j.lana.2024.100906).
 - **Hettinger, G.**, Roberto, C., Lee, Y., Mitra, N. (2024). Doubly Robust Estimation of Policy-Relevant Causal Effects Under Interference. ([*In press, Journal of the Royal Statistical Society: Series C*](https://arxiv.org/abs/2301.06697)).
+- Lee, Y., **Hettinger, G.**, Mitra, N. Policy effect evaluation under counterfactual neighborhood interventions in the presence of spillover. ([*In press, Journal of the Royal Statistical Society: Series A*](https://arxiv.org/abs/2303.06227)).
 
 ## Under Review
-- **Hettinger, G.**, Lee, Y., Mitra, N. Multiply Robust Estimation of Causal Effect Curves for Difference-in-Differences Designs. arXiv preprint arXiv:2401.14355. ([arXiv](https://arxiv.org/abs/2401.14355)).
-- Lee, Y., **Hettinger, G.**, Mitra, N. Policy effect evaluation under counterfactual neighborhood interventions in the presence of spillover. ([arXiv](https://arxiv.org/abs/2303.06227)).
-- **Hettinger, G.**, Long, Q., & Parikh, R. Comparative Effectiveness of Second-Line Therapies in Advanced Non-Small Cell Lung Cancer: A Propensity-Score-Based Real-World Analysis Using Longitudinal EHR Data.
-- **Hettinger, G.**, Margolis, D. J., & Mitra, N. Mendelian Randomization for Dermatology Research.
-- **Hettinger, G.**, Lee, Y., & Mitra, N. A Causal Framework for Drivers of Policy Effect Heterogeneity Using Difference-in-Differences. ([arXiv](https://arxiv.org/abs/2408.16670)).
+- **Hettinger, G.**, Lee, Y., Mitra, N. Multiply Robust Difference-in-Differences Estimation of Causal Effect Curves for Continuous Exposures. ([arXiv](https://arxiv.org/abs/2401.14355)).
+- **Hettinger, G.**, Long, Q., Parikh, R. Comparative Effectiveness of Second-Line Therapies in Advanced Non-Small Cell Lung Cancer: A Propensity-Score-Based Real-World Analysis Using Longitudinal EHR Data.
+- **Hettinger, G.**, Margolis, D. J., Mitra, N. Mendelian Randomization for Dermatology Research.
+- **Hettinger, G.**, Lee, Y., Mitra, N. A Causal Framework for Drivers of Policy Effect Heterogeneity Using Difference-in-Differences. ([arXiv](https://arxiv.org/abs/2408.16670)).

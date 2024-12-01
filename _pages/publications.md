@@ -23,4 +23,4 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Under Review
 - **Hettinger, G.**, Lee, Y., Mitra, N. Multiply Robust Difference-in-Differences Estimation of Causal Effect Curves for Continuous Exposures. ([arXiv](https://arxiv.org/abs/2401.14355)).
 - **Hettinger, G.**, Long, Q., Parikh, R. Comparative Effectiveness of Second-Line Therapies in Advanced Non-Small Cell Lung Cancer: A Propensity-Score-Based Real-World Analysis Using Longitudinal EHR Data.
-- **Hettinger, G.**, Lee, Y., Mitra, N. A Causal Framework for Drivers of Policy Effect Heterogeneity Using Difference-in-Differences. ([arXiv](https://arxiv.org/abs/2408.16670)).
+- **Hettinger, G.**, Lee, Y., Mitra, N. A Causal Framework for Evaluating Drivers of Policy Effect Heterogeneity Using Difference-in-Differences. ([arXiv](https://arxiv.org/abs/2408.16670)).

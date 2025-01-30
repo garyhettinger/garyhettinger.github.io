@@ -7,8 +7,6 @@ author_profile: true
 ## Invited Talks
 - *ENAR Spring Meeting, New Orleans, LA*, March 2025 
   - Transportability of Policy Effects under Heterogeneous Exposure and Demographic Distributions
-- *International Biometric Conference (IBC), Atlanta, GA*, December 2024 
-  - Stochastic Health Policy Interventions under Interference using a Difference-in-Differences Framework
 - *Joint Statistical Meetings (JSM), Portland, OR*, August 2024 
   - Robust Estimation and Transportation of Causal Effect Curves for Difference-in-Differences Designs
 - *ENAR Spring Meeting, Baltimore, MD*, March 2024 
@@ -23,6 +21,8 @@ author_profile: true
   - Estimation of Heterogeneous Policy-Relevant Causal Effects under the Difference-in-Differences Framework with Spillover 
     
 ## Contributed Talks
+- *International Conference on Health Policy Statistics (ICHPS), San Diego, CA*, January 2025
+  - Transporting Policy Intervention Effects Under Exposure Heterogeneity and Interference with an Application to Nutritional Excise Taxes
 - *American Causal Inference Conference (ACIC), Seattle, WA*, May 2024 
   - Evaluating Policy Mechanisms Through Exposure Heterogeneity Using Difference-in-Differences
 - *European Causal Inference Meeting (EuroCIM), Copenhagen, DK*, April 2024 

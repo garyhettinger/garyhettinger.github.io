@@ -19,4 +19,4 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - **Hettinger, G.**, Roberto, C., Lee, Y., Mitra, N. (2024). Doubly Robust Estimation of Policy-Relevant Causal Effects Under Interference. [*Journal of the Royal Statistical Society: Series C*](https://doi.org/10.1093/jrsssc/qlae066).
 - Lee, Y., **Hettinger, G.**, Mitra, N. (2024). Policy effect evaluation under counterfactual neighborhood interventions in the presence of spillover. [*In press, Journal of the Royal Statistical Society: Series A*](https://doi.org/10.1093/jrsssa/qnae153).
 - **Hettinger, G.**, Margolis, D. J., Mitra, N. (2024). Mendelian Randomization for Dermatology Research. *In press, JAMA Dermatology*.
--  **Hettinger, G.**, Lee, Y., Mitra, N. (2025). Multiply Robust Difference-in-Differences Estimation of Causal Effect Curves for Continuous Exposures. [*In press, Biometrics*](https://arxiv.org/abs/2401.14355).
+-  **Hettinger, G.**, Lee, Y., Mitra, N. (2025). Multiply Robust Difference-in-Differences Estimation of Causal Effect Curves for Continuous Exposures. [*In press, Biometrics*](https://doi.org/10.1093/biomtc/ujaf015).

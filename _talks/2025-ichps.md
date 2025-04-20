@@ -1,5 +1,5 @@
 ---
-title: "Transporting Policy Intervention Effects Under Exposure Heterogeneity and Interference with an Application to Nutritional Excise Taxes"
+title: "Exploiting Exposure Heterogeneity for Deeper Policy Insights"
 collection: talks
 type: "Talk"
 venue: "International Conference on Health Policy Statistics"

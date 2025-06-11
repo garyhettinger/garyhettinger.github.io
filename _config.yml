@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Gary C. N. Hettinger"
 title_separator          : "-"
 name                     : &name "Gary C. N. Hettinger"
-description              : &description "Incoming Assistant Professor of Biostatistics at New York University"
+description              : &description "Assistant Professor of Biostatistics at New York University"
 url                      : https://garyhettinger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "garyhettinger.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Gary Hettinger, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming Assistant Professor of Biostatistics"
+  bio              : "Assistant Professor of Biostatistics"
   location         : "New York, NY"
   employer         : "NYU Grossman School of Medicine"
   uri              : # URL
-  email            : "ghetting@pennmedicine.upenn.edu" 
+  email            : "gary.hettinger@nyulangone.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

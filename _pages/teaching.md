@@ -7,6 +7,8 @@ author_profile: true
 {% include base_path %}
 
 ## University of Pennsylvania
+- BSTA 7900: Causal Inference in Biomedical Research (Fall 2025)
+  - Guest lecturer for Biostatistics Ph.D. students: "Quasi-Experimental Methods for Longitudinal Panel Data".
 - Summer Undergraduate Internship Program (SUIP) (Summer 2024)
   - Presented a two hour workshop on "Introduction to Causal Inference" for undergraduate interns in Department of Biostatistics, Epidemiology, and Informatics.
 - EPID 6450: Research Methods in Cancer Epidemiology (Spring 2024)

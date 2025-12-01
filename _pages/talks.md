@@ -5,8 +5,16 @@ author_profile: true
 ---
 
 ## Invited Talks
+- *Johns Hopkins University, SLAM Working Group, Baltimore, MD*, November 2025 
+  - Semi-parametric Causal Methods for Health Policy Evaluation With Spillover
 - *ENAR Spring Meeting, New Orleans, LA*, March 2025 
   - Transportability of Policy Effects under Heterogeneous Exposure and Demographic Distributions
+- *New York University, Department of Population Health, New York, NY*, December 2024
+  - Semi-parametric Causal Methods for Health Policy Evaluation Under Interference
+- *Drexel University, Department of Biostatistics and Epidemiology, Philadelphia, PA*, December 2024
+  - Semi-parametric Causal Methods for Health Policy Evaluation Under Interference
+- *Boston University, Department of Biostatistics, Boston, MA*, October 2024
+  - Semi-parametric Causal Methods for Health Policy Evaluation Under Interference
 - *Joint Statistical Meetings (JSM), Portland, OR*, August 2024 
   - Robust Estimation and Transportation of Causal Effect Curves for Difference-in-Differences Designs
 - *ENAR Spring Meeting, Baltimore, MD*, March 2024 

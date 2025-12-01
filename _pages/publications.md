@@ -10,8 +10,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Peer-Reviewed
 - **Hettinger, G.**, Long, Q., Parikh, R.B. (2025). Real-World Effectiveness of Second-Line Therapies in Advanced Non-Small Cell Lung Cancer: Insights from Propensity-Weighted Comparative Analyses of Longitudinal EHR Data. [*Clinical Lung Cancer*](https://doi.org/10.1016/j.cllc.2025.09.010)
-- **Hettinger, G.**, Lee, Y., Mitra, N. (2025). A Causal Framework for Evaluating Drivers of Policy Effect Heterogeneity Using Difference-in-Differences. Accepted: [*Health Services and Outcomes Research Methodology](arXiv:2408.16670).
-- Zheng, D.J., **Hettinger, G.**, Cao, L., Elgarten, C., Fisher, B., Gathers, C., Huang, Y., Ko, J., Leger, K., Li, Y., Myers, R., Narayan, H., Ortiz, J., Seif, A. Aplenc, R., Getz, K. (2025). National trends in dexrazoxane and cardiovascular healthcare utilization for children with Acute Myeloid Leukemia. Accepted: *JAMA Oncology*
+- **Hettinger, G.**, Lee, Y., Mitra, N. (2025). A Causal Framework for Evaluating Drivers of Policy Effect Heterogeneity Using Difference-in-Differences. [*Health Services and Outcomes Research Methodology](https://doi.org/10.1007/s10742-025-00358-5)
+- Zheng, D.J., **Hettinger, G.**, Cao, L., Elgarten, C., Fisher, B., Gathers, C., Huang, Y., Ko, J., Leger, K., Li, Y., Myers, R., Narayan, H., Ortiz, J., Seif, A. Aplenc, R., Getz, K. (2025). National trends in dexrazoxane and cardiovascular healthcare utilization for children with Acute Myeloid Leukemia. [*JAMA Oncology*](https://doi.org/10.1001/jamaoncol.2025.4365)
 -  Zheng, D.J., **Hettinger, G.**, Aftandilian, C., Bona, K., Caywood, E.H., Collier, A.B., Elgarten, C.W., Gathers, C., Ghosh, T., Gramatges, M.M., Henry, M. (2025). Real-world generalizability of clinical trial cytomolecular risk in pediatric acute myeloid leukemia: a report from the REAL-AML cohort. [*JNCI: Journal of the National Cancer Institute*](https://doi.org/10.1093/jnci/djaf234).
 -  **Hettinger, G.**, Lee, Y., Mitra, N. (2025). Multiply Robust Difference-in-Differences Estimation of Causal Effect Curves for Continuous Exposures. [*Biometrics*](https://doi.org/10.1093/biomtc/ujaf015).
 -  **Hettinger, G.**, Margolis, D. J., Mitra, N. (2025). Mendelian Randomization for Dermatology Research. [*JAMA Dermatology*](http://doi.org/10.1001/jamadermatol.2024.6068).
@@ -24,7 +24,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - **Hettinger, G.**, Mitra, N., Thom, S. R., Margolis, D. J. (2024). An improved clinical and genetics-based prediction model for diabetic foot ulcer healing. [*Advances in Wound Care*](https://doi.org/10.1089/wound.2023.0194), 13(6), 281-290.
 - Petimar, J., Gibson, L., Wolff, M., Mitra, N., Corby, P., **Hettinger, G.**, Gregory, E., Edmondson, E., Block, J., Roberto, C. (2023). Changes in dental outcomes after implementation of the Philadelphia beverage tax.
  [*American Journal of Preventive Medicine*](https://journals.sagepub.com/doi/10.1177/09622802241242323), 65(2), 221-229.
-   - 
 
 
 
